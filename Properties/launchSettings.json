@@ -10,9 +10,9 @@
   },
   "profiles": {
     "IIS Express": {
-      "commandName": "IISExpress",
+      "commandName": "IISExpress", 
       "launchBrowser": true,
-      "launchUrl": "weatherforecast",
+      "launchUrl": "Values",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
@@ -21,7 +21,7 @@
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,
-      "launchUrl": "weatherforecast",
+      "launchUrl": "Values",
       "applicationUrl": "http://localhost:5000",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
