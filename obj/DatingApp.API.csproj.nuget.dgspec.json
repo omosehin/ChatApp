@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\abayomi.omosehin\\Documents\\App\\Chat\\DatingApp.API\\DatingApp.API.csproj": {}
+    "C:\\Users\\abayomi.omosehin\\Documents\\App\\Chat\\DatingApp.API\\DatingApp.API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\abayomi.omosehin\\Documents\\App\\Chat\\DatingApp.API\\DatingApp.API.csproj": {
+    "C:\\Users\\abayomi.omosehin\\Documents\\App\\Chat\\DatingApp.API\\DatingApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\abayomi.omosehin\\Documents\\App\\Chat\\DatingApp.API\\DatingApp.API.csproj",
+        "projectUniqueName": "C:\\Users\\abayomi.omosehin\\Documents\\App\\Chat\\DatingApp.API\\DatingApp.API.csproj",
         "projectName": "DatingApp.API",
-        "projectPath": "c:\\Users\\abayomi.omosehin\\Documents\\App\\Chat\\DatingApp.API\\DatingApp.API.csproj",
+        "projectPath": "C:\\Users\\abayomi.omosehin\\Documents\\App\\Chat\\DatingApp.API\\DatingApp.API.csproj",
         "packagesPath": "C:\\Users\\abayomi.omosehin\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\abayomi.omosehin\\Documents\\App\\Chat\\DatingApp.API\\obj\\",
+        "outputPath": "C:\\Users\\abayomi.omosehin\\Documents\\App\\Chat\\DatingApp.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -44,6 +44,10 @@
           "targetAlias": "net5.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
               "target": "Package",
               "version": "[3.1.8, )"
             },
