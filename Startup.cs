@@ -27,7 +27,8 @@ namespace DatingApp.API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<DataContext>(x =>x.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
-            services.AddControllers();
+            services.AddCors();
+            services.AddControllers();	
             services.AddScoped<IAuthRepository, AuthRepository>();
         }
 
@@ -50,6 +51,7 @@ namespace DatingApp.API
                 endpoints.MapControllers();
             });
              app.UseCors(x=>x.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
+           // app.UseMvc();
         }
     }
 }
