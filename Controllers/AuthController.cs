@@ -20,7 +20,7 @@ namespace DatingApp.API.Controllers
         [HttpPost("register")]
         public async Task<IActionResult> Register(RegisterDtos registerDtos)
         {
-                registerDtos.Username = registerDtos.Username.ToLower();
+                 registerDtos.Username = registerDtos.Username.ToLower();
                 if(await _repo.UserExists(registerDtos.Username))
                     return BadRequest("Username already exists");
 
