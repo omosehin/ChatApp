@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kLB1pBaBCo69gJCHdpSx6C6b5L9B/3BZ/+lBKcQgPDLuecYg7CJTWOjoc5ZYZ5bHql/HVITtRpoFEdBYrBURpg==",
+  "dgSpecHash": "yNNCU4/w6qY987IN2dbs9O9QlR0RcOIwswCfIDhSLYZVBjjH2EUbMn2AaEoHCUT0wSBMRzp3Oca9/27XNVvZwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abayomi.omosehin\\Documents\\App\\Chat\\DatingApp.API\\DatingApp.API.csproj",
+  "projectFilePath": "c:\\Users\\abayomi.omosehin\\Documents\\App\\Chat\\DatingApp.API\\DatingApp.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abayomi.omosehin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\abayomi.omosehin\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
@@ -27,10 +27,10 @@
     "C:\\Users\\abayomi.omosehin\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512",
     "C:\\Users\\abayomi.omosehin\\.nuget\\packages\\microsoft.identity.client\\3.0.8\\microsoft.identity.client.3.0.8.nupkg.sha512",
     "C:\\Users\\abayomi.omosehin\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\5.5.0\\microsoft.identitymodel.jsonwebtokens.5.5.0.nupkg.sha512",
-    "C:\\Users\\abayomi.omosehin\\.nuget\\packages\\microsoft.identitymodel.logging\\5.5.0\\microsoft.identitymodel.logging.5.5.0.nupkg.sha512",
+    "C:\\Users\\abayomi.omosehin\\.nuget\\packages\\microsoft.identitymodel.logging\\6.7.1\\microsoft.identitymodel.logging.6.7.1.nupkg.sha512",
     "C:\\Users\\abayomi.omosehin\\.nuget\\packages\\microsoft.identitymodel.protocols\\5.5.0\\microsoft.identitymodel.protocols.5.5.0.nupkg.sha512",
     "C:\\Users\\abayomi.omosehin\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\5.5.0\\microsoft.identitymodel.protocols.openidconnect.5.5.0.nupkg.sha512",
-    "C:\\Users\\abayomi.omosehin\\.nuget\\packages\\microsoft.identitymodel.tokens\\5.5.0\\microsoft.identitymodel.tokens.5.5.0.nupkg.sha512",
+    "C:\\Users\\abayomi.omosehin\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.7.1\\microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
     "C:\\Users\\abayomi.omosehin\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\abayomi.omosehin\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\abayomi.omosehin\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
