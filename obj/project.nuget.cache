@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "v+w2IngybEpRqchKMkevttUB/0pJhxAqHYeF78MBy2mVJhSGpLw+D0VN03mltet5HWZR0Cf/t//SgbF35bjyTQ==",
+  "dgSpecHash": "gTUWofEXvS/MnHwLNtTOr0DQm512tvqnAuFbJuysDq/fVqOMtJoh+hUZsBTXoXzj8jc5oE751TgOV832qGnNIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abayomi.omosehin\\Documents\\App\\Chat\\DatingApp.API\\DatingApp.API.csproj",
+  "projectFilePath": "c:\\Users\\abayomi.omosehin\\Documents\\App\\Chat\\DatingApp.API\\DatingApp.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\abayomi.omosehin\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.8\\microsoft.aspnetcore.authentication.jwtbearer.3.1.8.nupkg.sha512",
     "C:\\Users\\abayomi.omosehin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\abayomi.omosehin\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\abayomi.omosehin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
